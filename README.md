@@ -1,1 +1,1 @@
-Projeto para estudo. Site ficiticio para uma empresa de tecnologia;
+Projeto para estudo. Site ficiticio para uma empresa de tecnologia.
